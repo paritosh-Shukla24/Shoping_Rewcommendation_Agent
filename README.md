@@ -45,7 +45,7 @@ Example Query
 
 
 Product Recommendations
-!(https://github.com/paritosh-Shukla24/Shoping_Rewcommendation_Agent/blob/main/Screenshot%202025-01-05%20205434.png)
+![product](https://github.com/paritosh-Shukla24/Shoping_Rewcommendation_Agent/blob/main/Screenshot%202025-01-05%20205434.png)
 
 Usage
 Launch the application.
