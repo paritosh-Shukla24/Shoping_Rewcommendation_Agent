@@ -31,13 +31,13 @@ This project is a **Shopping Recommendation Agent** designed to assist users in 
 
 Install the required dependencies:
 
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 Run the application:
 
-```bash 
-streamlit appy.py
+   ```bash 
+   streamlit appy.py
  
 
 Example Query
