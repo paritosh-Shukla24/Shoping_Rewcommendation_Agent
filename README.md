@@ -32,7 +32,7 @@ An intelligent shopping assistant that provides personalized product recommendat
 
 2. Install required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install phidata google-generativeai openai firecrawl-py streamlit
    ```
 
 3. Launch the application:
@@ -53,7 +53,7 @@ An intelligent shopping assistant that provides personalized product recommendat
 ```
 Shoping_Rewcommendation_Agent/
 ├── appy.py              # Main application logic
-├── requirements.txt     # Project dependencies
+
 ├── README.md           # Project documentation
 └── screenshots/        # Application screenshots
 ```
@@ -104,11 +104,5 @@ For support, please open an issue in the GitHub repository or contact the mainta
 
 ---
 
-Made with  by [Paritosh Shukla](https://github.com/paritosh-Shukla24)
- 
-
-
-
-
-
+Made with ❤️ by [Paritosh Shukla](https://github.com/paritosh-Shukla24)
 
