@@ -28,3 +28,46 @@ This project is a **Shopping Recommendation Agent** designed to assist users in 
    ```bash
    git clone https://github.com/paritosh-Shukla24/Shoping_Rewcommendation_Agent.git
    cd Shoping_Rewcommendation_Agent
+
+Install the required dependencies:
+
+bash
+Copy code
+pip install -r requirements.txt
+Run the application:
+
+bash
+Copy code
+stremlit appy.py
+Screenshots
+Example Query
+
+
+
+Product Recommendations
+!(https://github.com/paritosh-Shukla24/Shoping_Rewcommendation_Agent/blob/main/Screenshot%202025-01-05%20205434.png)
+
+Usage
+Launch the application.
+Enter your preferences (e.g., "I want green Nike shoes under Rs 10,000 for casual wear").
+Get tailored product recommendations.
+Future Enhancements
+Integration with more platforms.
+Enhanced filtering capabilities.
+Support for voice input.
+Contribution
+Feel free to fork the repository and create pull requests for improvements.
+
+License
+This project is licensed under MIT License.
+
+css
+Copy code
+
+ 
+
+
+
+
+
+
