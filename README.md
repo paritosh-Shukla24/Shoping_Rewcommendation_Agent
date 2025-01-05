@@ -31,16 +31,18 @@ This project is a **Shopping Recommendation Agent** designed to assist users in 
 
 Install the required dependencies:
 
-bash
-Copy code
+'''bash
+
 pip install -r requirements.txt
+
 Run the application:
 
-bash
-Copy code
+'''bash 
 stremlit appy.py
-Screenshots
+ 
+
 Example Query
+![query](https://github.com/paritosh-Shukla24/Shoping_Rewcommendation_Agent/blob/main/Screenshot%202025-01-05%20205434.png)
 
 
 
