@@ -29,13 +29,11 @@ This project is a **Shopping Recommendation Agent** designed to assist users in 
    git clone https://github.com/paritosh-Shukla24/Shoping_Rewcommendation_Agent.git
    cd Shoping_Rewcommendation_Agent
 
-Install the required dependencies:
-
+2.Install the required dependencies
    ```bash
    pip install -r requirements.txt
 
-Run the application:
-
+3.Run the application:
    ```bash 
    streamlit appy.py
  
